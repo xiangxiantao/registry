@@ -1,0 +1,5 @@
+# Project exclude paths
+/netty-echo/client/target/
+/netty-echo/server/target/
+/registry-center/target/
+/remote-client/target/
